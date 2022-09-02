@@ -1,9 +1,7 @@
 <h1 align="center">🙏 LIFEGUARD 🙏</h1>
 
 ## ⚠️ Some Cares
-*_The .rar files, in most cases are password protected. It is desirable that these files be opened only on your local machine to avoid possible problems. Password for access: "first course name"-951159_*
-
-> *_Este é um repositório para contribuir com os alunos (calouros e veteranos) da UFSC do campus de Araranguá. O intuíto é manter uma base de conhecimento para a galera. Caso haja sugestões para a melhoria deste repositório basta entrar em contato por pm com o administrador._*
+*_Este é um repositório para contribuir com os alunos (calouros e veteranos) da UFSC do campus de Araranguá. O intuíto é manter uma base de conhecimento para a galera. Caso haja sugestões para a melhoria deste repositório basta entrar em contato por pm com o administrador._*
 
 <br>
 

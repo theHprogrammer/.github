@@ -17,7 +17,6 @@
 
 - [Química Geral e Experimental - Indisponível](#)
 - [Cálculo I - Indisponível](#)
-- [Laboratório de Circuitos Digitais - Indisponível](#)
 - [Organização e Arquitetura de Computadores - Indisponível](#)
 - [Linguagem de Programação II - Indisponível](#)
 - [Elaboração de Trabalhos Acadêmicos - Indisponível](#)
@@ -50,7 +49,6 @@
 
 ## 6ª Fase
 
-- [Laboratório de Física - Indisponível](#)
 - [Análise de Sinais e Sistemas Lineares - Indisponível](#)
 - [Cálculo Numérico em Computadores - Indisponível](#)
 - [Sistemas Digitais Embarcados - Indisponível](#)
@@ -69,7 +67,6 @@
 
 - [Projeto Integrador II - Indisponível](#)
 - [Fundamentos de Controle - Indisponível](#)
-- [Laboratório de Circuitos Elétricos - Indisponível](#)
 - [Sistemas Distribuídos - Indisponível](#)
 - [Sistemas Operacionais Embarcados - Indisponível](#)
 - [Linguagens Formais e Autômatos - Indisponível](#)

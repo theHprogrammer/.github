@@ -3,6 +3,8 @@
 ## ⚠️ Some Cares
 *_Este é um repositório para contribuir com os alunos (calouros e veteranos) da UFSC do campus de Araranguá. O intuíto é manter uma base de conhecimento para a galera. Caso haja sugestões para a melhoria deste repositório basta entrar em contato por pm com o administrador._*
 
+- [X] Última Atualização: Linguagem de Programação I - 27/10/2022
+
 <br>
 
 ## 1ª Fase
@@ -11,7 +13,7 @@
 - [Geometria Analítica - Indisponível](#)
 - [Pré-Cálculo - Indisponível](#)
 - [Circuitos Digitais](https://github.com/theHprogrammer/Digital_Circuits)
-- [Linguagem de Programação I - Indisponível](#)
+- [Linguagem de Programação I](https://github.com/theHprogrammer/Programming_Language_1)
 
 ## 2ª Fase
 
@@ -79,6 +81,12 @@
 - [Tópicos Avançados em Inteligência Artificial - Indisponível](#)
 
 ## 10ª Fase - Aqui é contigo. Boa Sorte!
+
+---
+
+> Pastas com senha: 951159
+
+---
 
 <br>
 

@@ -10,10 +10,10 @@
 ## 1ª Fase
 
 - [Introdução a Engenharia de Computação](https://github.com/theHprogrammer/Introduction_to_Computer_Engineering)
-- [Geometria Analítica - Indisponível](#)
+- [Geometria Analítica - Incompleto](github.com/theHprogrammer/Analytical_Geometry)
 - [Pré-Cálculo - Indisponível](#)
 - [Circuitos Digitais](https://github.com/theHprogrammer/Digital_Circuits)
-- [Linguagem de Programação I](https://github.com/theHprogrammer/Programming_Language_1)
+- [Linguagem de Programação I - Incompleto](https://github.com/theHprogrammer/Programming_Language_1)
 
 ## 2ª Fase
 

@@ -3,6 +3,11 @@
 ## ⚠️ Some Cares
 *_Este é um repositório para contribuir com os alunos (calouros e veteranos) da UFSC do campus de Araranguá. O intuíto é manter uma base de conhecimento para a galera. Caso haja sugestões para a melhoria deste repositório basta entrar em contato por pm com o administrador._*
 
+## ⚠️ Request Access
+- Encaminhar pedido para access.thehprogrammer@gmail.com
+    - [x] *email* usado na sua conta github; ou
+    - [x] *nome de usuário* usado no github
+
 - [X] Última Atualização: Linguagem de Programação I - 27/10/2022
 
 <br>
